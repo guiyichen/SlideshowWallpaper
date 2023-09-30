@@ -26,8 +26,8 @@
         android:title="@string/preference_edit_image_list"
         app:icon="@drawable/ic_image_list">
         <intent
-            android:targetClass="com.gavin.wallpaper.preferences.imageList.ImageListActivity"
-            android:targetPackage="io.github.doubi88.wallpaper" />
+            android:targetClass="com.custom.wallpaper.preferences.imageList.ImageListActivity"
+            android:targetPackage="com.custom.wallpaper" />
     </Preference>
     <ListPreference android:key="@string/preference_ordering_key"
         android:title="@string/preference_ordering"
