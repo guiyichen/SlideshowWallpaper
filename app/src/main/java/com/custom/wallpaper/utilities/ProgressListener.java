@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.utilities;
+package com.custom.wallpaper.utilities;
 
 import android.os.AsyncTask;
 

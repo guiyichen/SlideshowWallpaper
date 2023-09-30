@@ -16,13 +16,13 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.preferences;
+package com.custom.wallpaper.preferences;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import io.github.doubi88.slideshowwallpaper.R;
+import com.custom.wallpaper.R;
 
 public class WallpaperPreferencesActivity extends AppCompatActivity {
 

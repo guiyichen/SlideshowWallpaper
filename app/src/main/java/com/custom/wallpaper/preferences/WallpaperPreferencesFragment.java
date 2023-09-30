@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.preferences;
+package com.custom.wallpaper.preferences;
 
 import android.app.WallpaperManager;
 import android.content.ComponentName;
@@ -29,9 +29,9 @@ import android.os.Bundle;
 
 import androidx.preference.PreferenceFragmentCompat;
 
-import io.github.doubi88.slideshowwallpaper.R;
-import io.github.doubi88.slideshowwallpaper.SlideshowWallpaperService;
-import io.github.doubi88.slideshowwallpaper.utilities.CompatibilityHelpers;
+import com.custom.wallpaper.R;
+import com.custom.wallpaper.SlideshowWallpaperService;
+import com.custom.wallpaper.utilities.CompatibilityHelpers;
 
 public class WallpaperPreferencesFragment extends PreferenceFragmentCompat {
     public static int DEFAULT_SECONDS = 60;

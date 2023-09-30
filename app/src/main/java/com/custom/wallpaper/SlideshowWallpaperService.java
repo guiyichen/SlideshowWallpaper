@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper;
+package com.custom.wallpaper;
 
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -34,10 +34,10 @@ import android.widget.Toast;
 import java.io.IOException;
 import java.util.List;
 
-import io.github.doubi88.slideshowwallpaper.preferences.SharedPreferencesManager;
-import io.github.doubi88.slideshowwallpaper.utilities.CompatibilityHelpers;
-import io.github.doubi88.slideshowwallpaper.utilities.ImageInfo;
-import io.github.doubi88.slideshowwallpaper.utilities.ImageLoader;
+import com.custom.wallpaper.preferences.SharedPreferencesManager;
+import com.custom.wallpaper.utilities.CompatibilityHelpers;
+import com.custom.wallpaper.utilities.ImageInfo;
+import com.custom.wallpaper.utilities.ImageLoader;
 
 
 public class SlideshowWallpaperService extends WallpaperService {

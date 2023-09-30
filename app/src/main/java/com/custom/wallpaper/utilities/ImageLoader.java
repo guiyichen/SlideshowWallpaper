@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.utilities;
+package com.custom.wallpaper.utilities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -35,7 +35,7 @@ import android.util.Log;
 import java.io.IOException;
 import java.io.InputStream;
 
-import io.github.doubi88.slideshowwallpaper.R;
+import com.custom.wallpaper.R;
 
 public class ImageLoader {
 

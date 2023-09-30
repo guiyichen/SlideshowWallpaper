@@ -1,4 +1,4 @@
-package io.github.doubi88.slideshowwallpaper.utilities;
+package com.custom.wallpaper.utilities;
 
 public abstract class CompatibilityHelpers {
 

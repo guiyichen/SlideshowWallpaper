@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.preferences.imageList;
+package com.custom.wallpaper.preferences.imageList;
 
 import android.app.Activity;
 import android.content.ClipData;
@@ -34,8 +34,8 @@ import android.view.MenuItem;
 import java.util.LinkedList;
 import java.util.List;
 
-import io.github.doubi88.slideshowwallpaper.R;
-import io.github.doubi88.slideshowwallpaper.preferences.SharedPreferencesManager;
+import com.custom.wallpaper.R;
+import com.custom.wallpaper.preferences.SharedPreferencesManager;
 
 public class ImageListActivity extends AppCompatActivity {
 

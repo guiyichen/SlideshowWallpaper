@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.utilities;
+package com.custom.wallpaper.utilities;
 
 import android.content.Context;
 import android.net.Uri;
@@ -30,7 +30,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-import io.github.doubi88.slideshowwallpaper.R;
+import com.custom.wallpaper.R;
 
 public class AsyncTaskLoadImages extends AsyncTask<Uri, BigDecimal, List<ImageInfo>> {
 

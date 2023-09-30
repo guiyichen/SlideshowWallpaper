@@ -16,9 +16,9 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
-package io.github.doubi88.slideshowwallpaper.listeners;
+package com.custom.wallpaper.listeners;
 
-import io.github.doubi88.slideshowwallpaper.utilities.ImageInfo;
+import com.custom.wallpaper.utilities.ImageInfo;
 
 public interface OnDeleteClickListener {
 
